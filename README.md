@@ -1,6 +1,6 @@
 # 📝 Real-Time Markdown Editor
 
-A clean, two-pane real-time Markdown editor built with Flask and deployed on Fly.io. This project lets users type Markdown on the left and see beautifully rendered rich text on the right — with instant PDF export and copy-to-clipboard functionality.
+A clean, two-pane real-time Markdown editor built with Flask and deployed on Fly.io. This project lets users type Markdown on the left and see beautifully rendered rich text on the right with instant PDF export and copy-to-clipboard functionality.
 
 Live Demo: https://markdown-editor-zo.fly.dev
 
